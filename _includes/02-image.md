@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Test Image]{https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxSnxeZkSvb9B7mL4yM48miS2IMFXZaDx-zg&usqp=CAU}
